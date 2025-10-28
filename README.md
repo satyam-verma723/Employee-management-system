@@ -2,6 +2,13 @@
 
 A modern web application for managing employee tasks, built with React, Vite, and Tailwind CSS. This system allows administrators to create and assign tasks to employees, while employees can view, accept, complete, or mark tasks as failed.
 
+### Live Site
+Visit the live application at: [https://etms-oduw.onrender.com](https://etms-oduw.onrender.com)
+
+### Admin Login
+- Email: `admin@me.com`
+- Password: `123`
+
 ## Features
 
 ### Admin Dashboard
@@ -37,13 +44,6 @@ A modern web application for managing employee tasks, built with React, Vite, an
 - **Linting:** ESLint with React plugins
 
 ## Usage
-
-### Live Site
-Visit the live application at: [https://etms-oduw.onrender.com](https://etms-oduw.onrender.com)
-
-### Admin Login
-- Email: `admin@me.com`
-- Password: `123`
 
 ### Employee Login
 Check for employee credentials in `src/utils/localStorage.jsx` for seeded employee data.
